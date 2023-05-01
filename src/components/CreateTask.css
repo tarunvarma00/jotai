@@ -1,0 +1,20 @@
+.form {
+  border: 2px solid rgb(5, 4, 50);
+  border-radius: 5px;
+  padding: 50px;
+  margin-bottom: 30px;
+}
+
+.form .atom-input input {
+  height: 40px;
+  width: 300px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid rgb(79, 113, 135);
+}
+
+.form .atom-button {
+  padding: 5px 10px;
+  background: rgb(69, 253, 8);
+  border-radius: 10px;
+}

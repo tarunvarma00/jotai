@@ -1,0 +1,19 @@
+.tasksList .taskItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  width: 400px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid rgb(79, 113, 135);
+  word-wrap: break-word;
+}
+
+.tasksList .taskItem input {
+  height: 20px;
+  width: 20px;
+}
+.tasksList .taskItem button {
+  height: 100%;
+}
